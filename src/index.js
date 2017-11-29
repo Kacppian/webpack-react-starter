@@ -1,6 +1,5 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
-import './sass/Searchbar.sass';
 
 ReactDOM.render(
 	<div>
